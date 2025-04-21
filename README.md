@@ -31,7 +31,7 @@
 </tr>
 <tr>
   <td align="center" width="120"><img src="https://cdn.simpleicons.org/blender/F5792A" width="40"/><br/>Blender</td>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/solidworks/FF0000" width="40"/><br/>SolidWorks</td>
+  <td align="center" width="120"><img src="https://cdn.simpleicons.org/autodesk/0696D7" width="40"/><br/>SolidWorks</td>
 </tr>
 
 <tr>
@@ -39,7 +39,7 @@
 </tr>
 <tr>
   <td align="center" width="120"><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40"/><br/>Flexible Electronics</td>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40"/><br/>Linux</td>
+  <td align="center" width="120"><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40"/><br/>Offline Device</td>
 </tr>
 
 </table>
@@ -49,4 +49,4 @@
 ---
 
 📊 GitHub statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" width="50%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MajorDionysus&show_icons=true&theme=dark&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajorDionysus&theme=dark&hide_border=true" width="50%" /> </p>
