@@ -2,7 +2,7 @@
 
 <h1 align="center">HELLO, this is Rayn Jay 👋</h1>
 <p align="center">
-  🧑‍💻 Full-Stack Developer · 🌱 Continuous learning. · 🔭 开源爱好者
+🌱 Continuous learning 
 </p>
 
 <p align="center">
@@ -13,35 +13,32 @@
 
 ---
 
-### 🧰 技能栈 | Technical Stack by Research Dimension
+### 🧰 Technical Stack 
 
 <div align="center">
 
 <table>
 <tr>
-  <td colspan="3" align="center"><strong>🧪 实验技能 / Experimental Skills</strong></td>
+  <td colspan="3" align="center"><strong>🧪 Experimental Skills</strong></td>
 </tr>
 <tr>
   <td align="center" width="120"><img src="https://cdn.simpleicons.org/python/3776AB" width="40"/><br/>Python</td>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/matlab/0076A8" width="40"/><br/>MATLAB</td>
   <td align="center" width="120"><img src="https://cdn.simpleicons.org/arduino/00979D" width="40"/><br/>Arduino</td>
 </tr>
 
 <tr>
-  <td colspan="3" align="center"><strong>🧠 仿真与建模 / Simulation & Modeling</strong></td>
+  <td colspan="3" align="center"><strong>💻 Modeling</strong></td>
 </tr>
 <tr>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/blender/F5792A" width="40"/><br/>3D建模</td>
+  <td align="center" width="120"><img src="https://cdn.simpleicons.org/blender/F5792A" width="40"/><br/>Blender</td>
   <td align="center" width="120"><img src="https://cdn.simpleicons.org/solidworks/FF0000" width="40"/><br/>SolidWorks</td>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/ansys/FFB71B" width="40"/><br/>ANSYS</td>
 </tr>
 
 <tr>
-  <td colspan="3" align="center"><strong>🧬 材料与电子 / Materials & Flexible Electronics</strong></td>
+  <td colspan="3" align="center"><strong>🧬 Materials & Flexible Electronics</strong></td>
 </tr>
 <tr>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40"/><br/>柔性电子</td>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/kicad/314CBF" width="40"/><br/>KiCad</td>
+  <td align="center" width="120"><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40"/><br/>Flexible Electronics</td>
   <td align="center" width="120"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40"/><br/>Linux</td>
 </tr>
 
@@ -51,5 +48,5 @@
 
 ---
 
-📊 GitHub 统计
+📊 GitHub statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" width="50%" /> </p>
