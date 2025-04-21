@@ -13,40 +13,5 @@
 
 ---
 
-### 🧰 Technical Stack 
-
-<div align="center">
-
-<table>
-<tr>
-  <td colspan="3" align="center"><strong>🧪 Experimental Skills</strong></td>
-</tr>
-<tr>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/python/3776AB" width="40"/><br/>Python</td>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/arduino/00979D" width="40"/><br/>Arduino</td>
-</tr>
-
-<tr>
-  <td colspan="3" align="center"><strong>💻 Modeling</strong></td>
-</tr>
-<tr>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/blender/F5792A" width="40"/><br/>Blender</td>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/autodesk/0696D7" width="40"/><br/>SolidWorks</td>
-</tr>
-
-<tr>
-  <td colspan="3" align="center"><strong>🧬 Materials & Flexible Electronics</strong></td>
-</tr>
-<tr>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40"/><br/>Flexible Electronics</td>
-  <td align="center" width="120"><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="40"/><br/>Offline Device</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
 📊 GitHub statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MajorDionysus&show_icons=true&theme=dark&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajorDionysus&theme=dark&hide_border=true" width="50%" /> </p>
