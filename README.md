@@ -14,4 +14,4 @@
 ---
 
 📊 GitHub statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MajorDionysus&show_icons=true&theme=dark&hide_border=true" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajorDionysus&theme=dark&hide_border=true" width="51%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MajorDionysus&show_icons=true&theme=dark&hide_border=true" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajorDionysus&theme=dark&hide_border=true" width="50%" /> </p>
